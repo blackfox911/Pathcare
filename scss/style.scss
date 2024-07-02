@@ -379,20 +379,20 @@ a:focus {
             font-size: 13px;
 
             &:hover {
-                color: $secondary-color;
+                color: ;
             }
         }
     }
 }
 
 .play-btn {
-    background: $secondary-color;
+    background: ;
     border-radius: 50%;
     width: 48px;
     height: 48px;
     vertical-align: middle;
     display: inline-block;
-    box-shadow: 0.7px 2.994px 12.1px 0px #ee332e;
+    
     margin: 0 0 0 14px;
     transition: 0.3s;
     &:hover {
@@ -661,7 +661,7 @@ a:focus {
 // About Video Section
 .about-video_block {
     background: $light;
-    box-shadow: 0px 0px 23px -17px rgba(77, 114, 208, 1);
+    
     border: 12px solid #fff;
     margin: 0 0 90px;
 }
@@ -1020,7 +1020,7 @@ a:focus {
 
     a {
         background: #308ec4 !important;
-        box-shadow: 4.5px 7.794px 13px 0px #308ec4;
+        
     }
 }
 
@@ -1029,7 +1029,7 @@ a:focus {
 
     a {
         background: #ee332e !important;
-        box-shadow: 4.5px 7.794px 13px 0px #ee332e;
+        
     }
 }
 
@@ -1038,7 +1038,7 @@ a:focus {
 
     a {
         background: #283170 !important;
-        box-shadow: 4.5px 7.794px 13px 0px #283170;
+        
     }
 }
 
@@ -1179,7 +1179,7 @@ a:focus {
         left: 50%;
         transform: translate(-50%, -50%);
         background: $primary-color;
-        box-shadow: 4.5px 7.794px 13px 0px rgb(91, 193, 152);
+       
         margin: 0;
     }
 }
@@ -1348,7 +1348,7 @@ a:focus {
     transform: translateX(-50%) translateY(-50%);
     /* width: 90%; */
     /* height: auto; */
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.75);
+    
 }
 
 
@@ -1455,7 +1455,6 @@ a:focus {
         width: 36px;
         height: 36px;
         background: #fff;
-        box-shadow: 0px 0px 13px -9px rgba(0, 0, 0, 0.75);
         border-radius: 50%;
         margin: 0 0 14px;
 
@@ -1505,7 +1504,7 @@ a:focus {
 
     i {
         background: $dark;
-        box-shadow: 4.5px 7.794px 13px 0px rgb(77, 114, 208);
+        : 4.5px 7.794px 13px 0px rgb(77, 114, 208);
         padding: 19px;
         border-radius: 50%;
         margin-left: 8px;
@@ -1590,7 +1589,7 @@ a:focus {
     height: 80px;
     border-radius: 50%;
     border: 6px solid #fff;
-    box-shadow: 0px 0px 23px -11px #283170;
+    
     margin: -83px 0 20px;
 }
 
@@ -2016,7 +2015,7 @@ ABOUT
         padding: 17px;
         border-radius: 50%;
         color: #fff;
-        box-shadow: 0.7px 2.994px 12.1px 0px #ee332e;
+        
         font-size: 12px;
     }
 }
@@ -2251,7 +2250,7 @@ DOCTORS
     border-radius: 50%;
     width: 140px;
     height: 140px;
-    box-shadow: 0px 0px 14px -8px rgba(0, 0, 0, 0.75);
+    
 }
 
 .emergency {
@@ -3080,7 +3079,7 @@ PRICING
 .pricing {
     padding: 0;
     margin: 0;
-    box-shadow: 0px 0px 23px -17px #3c3f42;
+    
 
     li {
         list-style: none;
@@ -3152,7 +3151,7 @@ PRICING
         font-weight: 400;
         padding: 16px 27px;
         border: none;
-        box-shadow: -8px 2px 38px -10px #ee332e;
+        
     }
 }
 
@@ -3376,7 +3375,7 @@ SERVICES 2
     padding: 16px;
     border-radius: 6px;
     margin: 0 0 16px;
-    box-shadow: 0px 8px 20px -14px #283170;
+    
     width: 73px;
 }
 
